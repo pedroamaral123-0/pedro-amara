@@ -1,0 +1,21 @@
+.Pedro{
+width: 100%!important;
+height: 400px;
+background-image: url("download.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+
+h1 {
+    text-align: center;
+}
+.r2{
+    width: 20px;
+    height: 40px;
+    background-image: url(https://thumbs.dreamstime.com/z/corrida-velocista-atleta-86185126.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
