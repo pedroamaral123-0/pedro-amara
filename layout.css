@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+ 
+img {
+    width: 300px;
+}
+
+body {
+    background: scroll #dcdcdc;
+}
+.r1{
+    background: fixed #679f5a;
+    color: #dcdcdc;
+    right: 100px;
+    height: 100px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
